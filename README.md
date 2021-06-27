@@ -11,3 +11,5 @@ and requires the following modules:
 
 
 These modules need to be downloaded (using pip or other package managers) and the python path and system path variables needs to point to the directories containing the modules. 
+
+There are two versions of the code, using a Data Frame (allows accessing variables by name) and using a List (uses hard-coded indices). 
