@@ -7,5 +7,7 @@ and requires the following modules:
 * requests
 * json
 * numpy
-* pandas.
+* pandas. 
+
+
 These modules need to be downloaded (using pip or other package managers) and the python path variable needs to point to this directory. 
