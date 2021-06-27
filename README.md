@@ -10,4 +10,4 @@ and requires the following modules:
 * pandas. 
 
 
-These modules need to be downloaded (using pip or other package managers) and the python path variable needs to point to this directory. 
+These modules need to be downloaded (using pip or other package managers) and the python path and system path variables needs to point to the directories containing the modules. 
